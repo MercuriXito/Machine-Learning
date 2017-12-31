@@ -6,7 +6,8 @@ Code saved for linear regression
   Dataset:
     1.ex1data1.txt (Univariate linear regression)
       ex1data2.txt (Multivariate linear regression)
-      Also from courses, Machine Learning, on coursera
+      Also from courses, Machine Learning, on coursera. 
+        For URL: https://www.coursera.org/learn/machine-learning
       
   Description:
     Get myself much more familiar about numpy and matplotlib
